@@ -10,6 +10,11 @@ trade
 | |Build| |Windows Build| |Coverage Status| |Scrutinizer| |cii|
 
 
+Notice
+------
+My country, Brazil, is under a fascist government that is hunting and killing oppositors. I've been threatened too and am away from dev. I'll be back. #EleNão
+
+
 Installation
 ------------
 
