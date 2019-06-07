@@ -12,7 +12,7 @@ trade
 
 Notice
 ------
-My country, Brazil, is under a fascist government that is hunting and killing oppositors. I've been threatened too and am away from dev. I'll be back. #EleNão
+My country, Brazil, is under a fascist government that is hunting and killing its opponents. I've been threatened too. #EleNão
 
 
 Installation
